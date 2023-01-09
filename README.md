@@ -8,6 +8,4 @@ Projeto desenvolvido durante o curso.
  - `npm install`
 
  ### Para Rodar
- - `npm start`#� �r�e�a�c�t�-�c�a�l�c�-�i�m�c�
-�
-�
+ - `npm start`
